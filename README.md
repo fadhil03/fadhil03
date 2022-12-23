@@ -1,6 +1,5 @@
 # Hai Kawan! 
 
 Perkenalkan nama saya **Muhammad Fadhil Hisyam**.  
-Saya seorang **MahaStudent** di [UNM](https://unm.ac.id/).  
-Sekarang saya mengikuti program Magang Studi Independen Bersertifikat  
+Saya seorang **Mahasiswa** di [UNM](https://unm.ac.id/).  
 Jika kamu tertarik untuk berkenalan denganku, Mari berkenalan
